@@ -1,0 +1,102 @@
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\ShoppingCarts.dll.config
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\ShoppingCarts.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\ShoppingCarts.pdb
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Antlr3.Runtime.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\AspNet.ScriptManager.jQuery.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\EntityFramework.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\EntityFramework.SqlServer.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Google.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Web.Infrastructure.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Newtonsoft.Json.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Owin.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\System.Web.Optimization.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\System.Web.Providers.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\WebGrease.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\System.Web.Optimization.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Antlr3.Runtime.pdb
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Newtonsoft.Json.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\EntityFramework.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\EntityFramework.SqlServer.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Google.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.csprojResolveAssemblyReference.cache
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.dll
+C:\TRAINING\ShoppingCart\ShoppingCart\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.pdb
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\ShoppingCarts.dll.config
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\ShoppingCarts.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\ShoppingCarts.pdb
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Antlr3.Runtime.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\AspNet.ScriptManager.bootstrap.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\AspNet.ScriptManager.jQuery.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\EntityFramework.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\EntityFramework.SqlServer.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Google.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.ScriptManager.WebForms.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Web.Infrastructure.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Newtonsoft.Json.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Owin.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\System.Web.Optimization.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\System.Web.Providers.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\WebGrease.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\System.Web.Optimization.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Antlr3.Runtime.pdb
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Newtonsoft.Json.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\EntityFramework.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\EntityFramework.SqlServer.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Google.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DOTNET Training\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.csprojResolveAssemblyReference.cache
+C:\DOTNET Training\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.dll
+C:\DOTNET Training\ShopingCart\ShoppingCarts\obj\Debug\ShoppingCarts.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShoppingCartModelStoreContainer" CdmEntityContainer="ShoppingCartEntities">
+    <FunctionImportMapping FunctionImportName="Authentication" FunctionName="ShoppingCartModel.Store.Authentication">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ShoppingCartModel.Authentication_Result">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ProductSelectsAll" FunctionName="ShoppingCartModel.Store.ProductSelectsAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ShoppingCartModel.ProductSelectsAll_Result">
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="ProductPrice" ColumnName="ProductPrice" />
+          <ScalarProperty Name="ProductImage" ColumnName="ProductImage" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AddtoCart" FunctionName="ShoppingCartModel.Store.AddtoCart" />
+    <FunctionImportMapping FunctionImportName="CartItems" FunctionName="ShoppingCartModel.Store.CartItems">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ShoppingCartModel.CartItems_Result">
+          <ScalarProperty Name="ProductImage" ColumnName="ProductImage" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="ProductName1" ColumnName="ProductName1" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="asTotal" ColumnName="asTotal" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CheckOut" FunctionName="ShoppingCartModel.Store.CheckOut" />
+  </EntityContainerMapping>
+</Mapping>

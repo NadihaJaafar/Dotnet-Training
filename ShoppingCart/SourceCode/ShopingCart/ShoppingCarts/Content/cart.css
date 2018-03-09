@@ -1,0 +1,122 @@
+﻿.logo h3 {
+    color: orange;
+    font-size: 30px;
+    padding-left: 25px;
+    float: left;
+
+}
+.login {
+    float: right;
+}
+.login input {
+    background: no-repeat;
+    border: none;
+    color: blue;
+    cursor: pointer;
+    margin-top: 15px;
+
+}
+.menu {
+    width: 100%;
+    float: left;
+    height: 49px;
+    background: green;
+
+}
+.menu ul li {
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+
+}
+.menu ul li a {
+    text-decoration: none;
+    color:#0094ff;
+    padding: 16px;
+
+}
+.menu ul li a:hover {
+    background: orange;
+
+}
+.list {
+    float: left;
+    width: 100%;
+
+}
+
+.menu ul li {
+    list-style: none;
+        float: left;
+}
+.menu ul li a {
+    text-decoration: none;
+    padding: 16px;
+        color: #fff;
+}
+.menu {
+    background: orange;
+
+
+}
+.menu ul li a:hover {
+    background: red;
+}
+.p_img img {
+    width: 200px;
+    height: 200px;
+}
+.product {
+    border: 1px solid #000;
+    width: 13%;
+    text-align: center;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius:10px;
+    float:left;
+}
+
+.p_chart input {
+    background: purple;
+    border: none;
+    color: #fff;
+    padding: 8px;
+    width: 117px;
+    margin-top: 10px;
+}
+.p_name {
+    font-size: 18px;
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+table.cartlist {
+    width: 96%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.p_img img {
+    width: 60px;
+    height: 60px;
+}
+
+table.cartlist thead tr {
+    background: gray;
+    color: #fff;
+}
+table.cartlist thead tr td {
+    padding: 10px;
+    text-align: center;
+}
+table.cartlist tbody tr td {
+ padding: 5px;
+    text-align: center;
+    border-bottom:1px solid gray;
+}
+.p_cart {
+    float: right;
+    margin-right: 32px;
+}
